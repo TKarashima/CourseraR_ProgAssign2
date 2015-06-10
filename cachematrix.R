@@ -1,4 +1,4 @@
-## The two following functions are designed to avoid multiple calculation of 
+## The abc two following functions are designed to avoid multiple calculation of 
 ## the inverse of a matrix. It is useful in the sense that one can save compu-
 ## tational resources by avoiding more than one heavy calculation that is 
 ## called many times throughout a work in a R program.
