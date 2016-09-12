@@ -7,6 +7,8 @@
 # se made by cacheSolve(), and for returning a saved inverse after queried by
 # cacheSolve().
 
+# THIS IS A GITHUB TEST
+
 makeCacheMatrix <- function(x = matrix()) {
         ii <- NULL
         set <- function(y) {
